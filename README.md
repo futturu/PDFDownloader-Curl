@@ -27,12 +27,15 @@ Clone este repositório:
 git clone https://github.com/seu-usuario/PDFDownloader-Curl.git
 
 Navegue até o diretório do projeto:
+
 cd PDFDownloader-Curl
 
 Dê permissão de execução ao script:
+
 chmod +x baixar_pdfs_curl.sh
 
 Como Usar (How to Use)
+
 ./baixar_pdfs_curl.sh
 
 Contribuição (Contribution)
