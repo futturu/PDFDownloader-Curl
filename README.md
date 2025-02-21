@@ -57,3 +57,31 @@ Crie uma branch para sua contribuição:
 git checkout -b feature/nova-funcionalidade
 
 Envie um pull request detalhando suas alterações.
+
+Código de Conduta para Web Scraping:
+
+Não distribua ilegalmente materiais baixados.
+
+Não faça cópias de documentos que claramente não são de domínio público.
+
+Verifique se os dados necessários já estão disponíveis de forma acessível antes de realizar o scraping.
+
+Evite práticas agressivas de coleta de dados; insira pausas nos seus scripts para reduzir a carga sobre os servidores.
+
+Consulte as leis locais antes de realizar o scraping em qualquer site.
+
+Esse código visa garantir boas práticas e respeito à legalidade durante o processo de coleta de dados online.
+
+Web Scraping Code of Conduct:
+
+Do not unlawfully distribute downloaded materials.
+
+Do not copy documents that are clearly not intended for public access.
+
+Check if the required data is already available before scraping.
+
+Avoid aggressive scraping; introduce delays in your scripts to reduce server load.
+
+Review local laws before scraping any website.
+
+This code aims to ensure best practices and legal compliance during the process of collecting data online.
